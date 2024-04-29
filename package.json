@@ -1,0 +1,17 @@
+{
+  "name": "testtaskgrace",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "tsc && node src/tests/example.test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.12.7",
+    "playwright": "^1.43.1",
+    "typescript": "^5.4.5"
+  }
+}
